@@ -1,6 +1,6 @@
 # One Month Rails
 
 This is the my pinteresting sample application for
-[*facebook*](http://facebook.com)
+[*One Month Rails*](http://onemonthrails.com)
 
 by [engzhan](http://engzhan.com)
