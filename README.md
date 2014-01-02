@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the ppinteresting sample application for
+This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
 by [engzhan](http://engzhan.com)
